@@ -1,0 +1,1 @@
+I put all of my work into the PyCitySchools_starter.ipynb. I used previous examples from lectures and activities. When stuck and unsure how to continute, I asked questions on Chat GBT and Google's AI.
